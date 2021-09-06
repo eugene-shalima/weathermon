@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS street;
+DROP TABLE IF EXISTS street_type;
